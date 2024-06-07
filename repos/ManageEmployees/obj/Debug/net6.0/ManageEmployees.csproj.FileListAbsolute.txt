@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ManageEmployees\bin\Debug\net6.0\ManageEmployees.exe
+C:\Users\Student\source\repos\ManageEmployees\bin\Debug\net6.0\ManageEmployees.deps.json
+C:\Users\Student\source\repos\ManageEmployees\bin\Debug\net6.0\ManageEmployees.runtimeconfig.json
+C:\Users\Student\source\repos\ManageEmployees\bin\Debug\net6.0\ManageEmployees.dll
+C:\Users\Student\source\repos\ManageEmployees\bin\Debug\net6.0\ManageEmployees.pdb
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.AssemblyInfo.cs
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.dll
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\refint\ManageEmployees.dll
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.pdb
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ManageEmployees.genruntimeconfig.cache
+C:\Users\Student\source\repos\ManageEmployees\obj\Debug\net6.0\ref\ManageEmployees.dll

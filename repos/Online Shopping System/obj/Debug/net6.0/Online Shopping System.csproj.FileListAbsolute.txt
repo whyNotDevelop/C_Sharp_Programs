@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Online Shopping System\bin\Debug\net6.0\Online Shopping System.exe
+C:\Users\Student\source\repos\Online Shopping System\bin\Debug\net6.0\Online Shopping System.deps.json
+C:\Users\Student\source\repos\Online Shopping System\bin\Debug\net6.0\Online Shopping System.runtimeconfig.json
+C:\Users\Student\source\repos\Online Shopping System\bin\Debug\net6.0\Online Shopping System.dll
+C:\Users\Student\source\repos\Online Shopping System\bin\Debug\net6.0\Online Shopping System.pdb
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.AssemblyInfo.cs
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.dll
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\refint\Online Shopping System.dll
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.pdb
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\Online Shopping System.genruntimeconfig.cache
+C:\Users\Student\source\repos\Online Shopping System\obj\Debug\net6.0\ref\Online Shopping System.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\DemoSquare\bin\Debug\net6.0\DemoSquare.exe
+C:\Users\Student\source\repos\DemoSquare\bin\Debug\net6.0\DemoSquare.deps.json
+C:\Users\Student\source\repos\DemoSquare\bin\Debug\net6.0\DemoSquare.runtimeconfig.json
+C:\Users\Student\source\repos\DemoSquare\bin\Debug\net6.0\DemoSquare.dll
+C:\Users\Student\source\repos\DemoSquare\bin\Debug\net6.0\DemoSquare.pdb
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.AssemblyInfo.cs
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.dll
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\refint\DemoSquare.dll
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.pdb
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\DemoSquare.genruntimeconfig.cache
+C:\Users\Student\source\repos\DemoSquare\obj\Debug\net6.0\ref\DemoSquare.dll

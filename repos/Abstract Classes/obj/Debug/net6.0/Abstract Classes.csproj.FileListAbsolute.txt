@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Abstract Classes\bin\Debug\net6.0\Abstract Classes.exe
+C:\Users\Student\source\repos\Abstract Classes\bin\Debug\net6.0\Abstract Classes.deps.json
+C:\Users\Student\source\repos\Abstract Classes\bin\Debug\net6.0\Abstract Classes.runtimeconfig.json
+C:\Users\Student\source\repos\Abstract Classes\bin\Debug\net6.0\Abstract Classes.dll
+C:\Users\Student\source\repos\Abstract Classes\bin\Debug\net6.0\Abstract Classes.pdb
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.AssemblyInfo.cs
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.dll
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\refint\Abstract Classes.dll
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.pdb
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\Abstract Classes.genruntimeconfig.cache
+C:\Users\Student\source\repos\Abstract Classes\obj\Debug\net6.0\ref\Abstract Classes.dll

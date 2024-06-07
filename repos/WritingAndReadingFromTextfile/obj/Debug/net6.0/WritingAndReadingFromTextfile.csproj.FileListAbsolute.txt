@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\bin\Debug\net6.0\WritingAndReadingFromTextfile.exe
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\bin\Debug\net6.0\WritingAndReadingFromTextfile.deps.json
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\bin\Debug\net6.0\WritingAndReadingFromTextfile.runtimeconfig.json
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\bin\Debug\net6.0\WritingAndReadingFromTextfile.dll
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\bin\Debug\net6.0\WritingAndReadingFromTextfile.pdb
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.AssemblyInfo.cs
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.dll
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\refint\WritingAndReadingFromTextfile.dll
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.pdb
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\WritingAndReadingFromTextfile.genruntimeconfig.cache
+C:\Users\Student\source\repos\WritingAndReadingFromTextfile\obj\Debug\net6.0\ref\WritingAndReadingFromTextfile.dll

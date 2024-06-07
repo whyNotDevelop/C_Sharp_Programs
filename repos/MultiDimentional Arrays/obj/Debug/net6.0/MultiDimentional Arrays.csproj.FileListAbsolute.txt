@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\MultiDimentional Arrays\bin\Debug\net6.0\MultiDimentional Arrays.exe
+C:\Users\Student\source\repos\MultiDimentional Arrays\bin\Debug\net6.0\MultiDimentional Arrays.deps.json
+C:\Users\Student\source\repos\MultiDimentional Arrays\bin\Debug\net6.0\MultiDimentional Arrays.runtimeconfig.json
+C:\Users\Student\source\repos\MultiDimentional Arrays\bin\Debug\net6.0\MultiDimentional Arrays.dll
+C:\Users\Student\source\repos\MultiDimentional Arrays\bin\Debug\net6.0\MultiDimentional Arrays.pdb
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.AssemblyInfo.cs
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.dll
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\refint\MultiDimentional Arrays.dll
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.pdb
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\MultiDimentional Arrays.genruntimeconfig.cache
+C:\Users\Student\source\repos\MultiDimentional Arrays\obj\Debug\net6.0\ref\MultiDimentional Arrays.dll

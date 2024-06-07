@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\testPrep\testPrep\bin\Debug\net6.0\testPrep.exe
+C:\Users\Student\source\repos\testPrep\testPrep\bin\Debug\net6.0\testPrep.deps.json
+C:\Users\Student\source\repos\testPrep\testPrep\bin\Debug\net6.0\testPrep.runtimeconfig.json
+C:\Users\Student\source\repos\testPrep\testPrep\bin\Debug\net6.0\testPrep.dll
+C:\Users\Student\source\repos\testPrep\testPrep\bin\Debug\net6.0\testPrep.pdb
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.AssemblyInfo.cs
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.dll
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\refint\testPrep.dll
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.pdb
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\testPrep.genruntimeconfig.cache
+C:\Users\Student\source\repos\testPrep\testPrep\obj\Debug\net6.0\ref\testPrep.dll
